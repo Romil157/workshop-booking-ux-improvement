@@ -2,7 +2,7 @@
 
 A modernized, responsive, and highly accessible redesign of the original FOSSEE Workshop Booking platform.
 
-## 🚀 Live Environment Setup
+## Live Environment Setup
 
 ### Prerequisites
 - Node.js (v18 or higher)
@@ -26,7 +26,7 @@ A modernized, responsive, and highly accessible redesign of the original FOSSEE 
 
 ---
 
-## 🎨 Design Reasoning & Principles
+## Design Reasoning & Principles
 
 ### What design principles guided your improvements?
 I applied a series of fundamental modern UI/UX design principles to transform the platform:
@@ -52,7 +52,7 @@ Using a strict **Mobile-First methodology**:
 
 ---
 
-## 👀 Visual Showcase
+## Visual Showcase
 
 > *Note: Please insert the before and after visual assets here prior to submission!*
 
@@ -67,7 +67,7 @@ Using a strict **Mobile-First methodology**:
 | `(/after/proposal_desktop.png)` | `(/after/proposal_mobile.png)` |
 
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Framework**: React.js (Vite)
 - **Routing**: React Router DOM (Declarative view control)
 - **Styling**: Pure CSS3 & Local Scoped imports 
