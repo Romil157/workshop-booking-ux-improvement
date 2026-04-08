@@ -52,10 +52,6 @@ Using a strict **Mobile-First methodology**:
 
 ---
 
-## Visual Showcase
-
-> *Note: Please insert the before and after visual assets here prior to submission!*
-
 ### The Dashboard
 | Before (`/before/dashboard_desktop.png`) | After (`/after/dashboard_desktop.png`) |
 |------------------------------------------|----------------------------------------|
